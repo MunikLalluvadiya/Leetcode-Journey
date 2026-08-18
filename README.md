@@ -26,4 +26,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0035-search-insert-position/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
