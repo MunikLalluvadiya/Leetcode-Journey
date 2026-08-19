@@ -10,7 +10,7 @@ class Solution:
 
         crr = head
 
-        while  crr.next != None :
+        while crr != None and crr.next != None :
             if crr.next.val == crr.val:
                 crr.next = crr.next.next
             else:
