@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0001-two-sum/) | Easy |
+| [0141-linked-list-cycle](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0141-linked-list-cycle/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,6 +32,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -38,9 +40,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0206-reverse-linked-list/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
