@@ -24,7 +24,8 @@ class Solution:
             result.append(temp)
         r = result
         m = r
-        return m
+        result = m
+        return result
 
         
         
