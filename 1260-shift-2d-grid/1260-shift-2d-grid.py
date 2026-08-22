@@ -22,7 +22,8 @@ class Solution:
                 temp.append(end[idx])
                 idx += 1
             result.append(temp)
-        return result
+        r = result
+        return r
 
         
         
