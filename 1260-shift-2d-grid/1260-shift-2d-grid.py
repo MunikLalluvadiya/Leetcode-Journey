@@ -23,7 +23,8 @@ class Solution:
                 idx += 1
             result.append(temp)
         r = result
-        return r
+        m = r
+        return m
 
         
         
