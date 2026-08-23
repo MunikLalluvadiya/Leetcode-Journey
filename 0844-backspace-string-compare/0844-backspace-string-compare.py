@@ -21,7 +21,4 @@ class Solution:
                     t_st.pop()
        
 
-        if s_st == t_st :
-            return (True)
-        else:
-            return (False)
+        return s_st == t_st
