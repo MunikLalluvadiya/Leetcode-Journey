@@ -23,11 +23,13 @@
 | [0001-two-sum](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [1260-shift-2d-grid](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/1260-shift-2d-grid/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0001-two-sum/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Binary Search
@@ -82,4 +84,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
