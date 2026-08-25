@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0020-valid-parentheses/) | Easy |
+| [0771-jewels-and-stones](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0844-backspace-string-compare/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Stack
@@ -34,6 +35,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0771-jewels-and-stones](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
