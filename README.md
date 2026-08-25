@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0844-backspace-string-compare](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0844-backspace-string-compare/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/1108-defanging-an-ip-address/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
