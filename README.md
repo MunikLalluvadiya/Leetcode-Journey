@@ -39,6 +39,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0202-happy-number/) | Easy |
 | [0771-jewels-and-stones](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Binary Search
@@ -63,6 +64,7 @@
 | [0042-trapping-rain-water](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0141-linked-list-cycle](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0202-happy-number/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0844-backspace-string-compare](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0876-middle-of-the-linked-list/) | Easy |
@@ -76,6 +78,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0202-happy-number/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -119,4 +122,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0136-single-number/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
