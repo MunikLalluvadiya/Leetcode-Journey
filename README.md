@@ -29,6 +29,7 @@
 | [0035-search-insert-position](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0136-single-number](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0136-single-number/) | Easy |
 | [1260-shift-2d-grid](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/1260-shift-2d-grid/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
@@ -114,4 +115,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
