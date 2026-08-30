@@ -10,11 +10,10 @@ class Solution:
             a = s[i]
             b = t[i]
 
-            # Check s -> t
             if a in s_to_t and s_to_t[a] != b:
                 return False
 
-            # Check t -> s
+
             if b in t_to_s and t_to_s[b] != a:
                 return False
 
