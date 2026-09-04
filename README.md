@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0020-valid-parentheses/) | Easy |
+| [0049-group-anagrams](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
 | [0771-jewels-and-stones](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0844-backspace-string-compare/) | Easy |
@@ -29,6 +30,7 @@
 | [0001-two-sum](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0001-two-sum/) | Easy |
 | [0035-search-insert-position](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0049-group-anagrams](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0136-single-number/) | Easy |
 | [1260-shift-2d-grid](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/1260-shift-2d-grid/) | Easy |
@@ -37,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -128,4 +131,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0202-happy-number/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0049-group-anagrams](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
