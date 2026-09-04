@@ -10,4 +10,5 @@ class Solution:
 
             groups[key].append(word)
 
-        return list(groups.values())
+        a =list(groups.values())
+        return a
