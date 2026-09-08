@@ -4,6 +4,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
@@ -39,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0141-linked-list-cycle/) | Easy |
@@ -135,4 +137,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0049-group-anagrams/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
