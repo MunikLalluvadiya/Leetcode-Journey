@@ -34,6 +34,7 @@
 | [0049-group-anagrams](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0136-single-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1260-shift-2d-grid](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/1260-shift-2d-grid/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
@@ -47,6 +48,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0771-jewels-and-stones](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Binary Search
@@ -144,4 +146,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
