@@ -20,6 +20,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0739-daily-temperatures](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0844-backspace-string-compare/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0136-single-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0739-daily-temperatures](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [1260-shift-2d-grid](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/1260-shift-2d-grid/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
@@ -107,6 +109,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0042-trapping-rain-water/) | Hard |
+| [0739-daily-temperatures](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
