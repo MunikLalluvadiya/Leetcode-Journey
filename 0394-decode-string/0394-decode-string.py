@@ -5,7 +5,6 @@ class Solution:
         parse_stack = []
         number = 0
 
-        # Parse the encoded string
         for char in s:
             if char.isdigit():
                 number = number * 10 + int(char)
@@ -23,7 +22,6 @@ class Solution:
             else:
                 current.append(char)
 
-        # Decode without recursion
         result = []
         work = [(root, 0, 1)]
 
