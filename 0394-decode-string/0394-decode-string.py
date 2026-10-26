@@ -1,31 +1,50 @@
 class Solution:
     def decodeString(self, s: str) -> str:
+        root = []
+        current = root
+        parse_stack = []
+        number = 0
 
-        def decode(i):
-            result = ""
+        # Parse the encoded string
+        for char in s:
+            if char.isdigit():
+                number = number * 10 + int(char)
 
-            while i < len(s):
+            elif char == '[':
+                parse_stack.append((current, number))
+                current = []
+                number = 0
 
-                if s[i].isdigit():
-                    num = 0
+            elif char == ']':
+                parent, repeat = parse_stack.pop()
+                parent.append((repeat, current))
+                current = parent
 
-                    while s[i].isdigit():
-                        num = num * 10 + int(s[i])
-                        i += 1
+            else:
+                current.append(char)
 
-                    i += 1  # Skip '['
+        # Decode without recursion
+        result = []
+        work = [(root, 0, 1)]
 
-                    text, i = decode(i)
-                    result += text * num
+        while work:
+            nodes, index, remaining = work[-1]
 
-                elif s[i] == ']':
-                    return result, i + 1
-
+            if index == len(nodes):
+                if remaining == 1:
+                    work.pop()
                 else:
-                    result += s[i]
-                    i += 1
+                    work[-1] = (nodes, 0, remaining - 1)
+                continue
 
-            return result, i
+            node = nodes[index]
+            work[-1] = (nodes, index + 1, remaining)
 
-        result, _ = decode(0)
-        return result
+            if isinstance(node, str):
+                result.append(node)
+            else:
+                repeat, children = node
+                if repeat > 0 and children:
+                    work.append((children, 0, repeat))
+
+        return "".join(result)
