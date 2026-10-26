@@ -8,6 +8,7 @@
 | [0020-valid-parentheses](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0049-group-anagrams/) | Medium |
 | [0205-isomorphic-strings](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0205-isomorphic-strings/) | Easy |
+| [0394-decode-string](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0394-decode-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [0844-backspace-string-compare](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0844-backspace-string-compare/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -20,6 +21,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0394-decode-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0844-backspace-string-compare](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0844-backspace-string-compare/) | Easy |
 ## Bracket Sequences
@@ -86,6 +88,7 @@
 | [0002-add-two-numbers](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0394-decode-string/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
