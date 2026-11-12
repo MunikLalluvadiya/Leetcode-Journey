@@ -156,4 +156,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0185-department-top-three-salaries](https://github.com/MunikLalluvadiya/Leetcode-Journey/tree/main/0185-department-top-three-salaries/) | Hard |
 <!---LeetCode Topics End-->
